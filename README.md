@@ -1,0 +1,3 @@
+# Agenda
+Hello there! In this tiny project I have that agenda with phone numbers and names, but when I print the agenda I would like to have the '\n' deleted from the end of each and every string of both names and phone numbers. How could I improve that?
+If suggestions, don't hesitate...
